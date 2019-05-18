@@ -1,6 +1,6 @@
-# asrael
+# AFP-Wikidata dataset
 
-Dataset consisting of a maping between 355 AFP articles and their associated Wikidata instance.
+Dataset consisting of a mappings between 355 AFP news articles and their associated Wikidata items identifying events which are described in those news articles
 
-The Wikidata instances are identified by their ID.
-The articles are augmented with some Metadata such as the cuntry where the article was written,some keywords and the corresponding IPTC Media Topics.
+The Wikidata items are identified using their ID.
+The news articles are enriched with NewsML metadata such as the country where the article was written, keywords and IPTC Media Topics that categorize the news articles
